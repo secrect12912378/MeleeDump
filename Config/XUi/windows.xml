@@ -1,0 +1,3 @@
+<potato>
+<set xpath="/windows/window[@name='windowSkillList']/panel[@name='content']/rect[@name='categoryHeader']/panel[@depth='1']/grid[@name='categories' and @cols]/@cols">25</set>
+</potato>
